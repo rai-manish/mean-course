@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+<!-- ********* Package Installed in projects -->
+this is to validate the uniqueness by default does not have the capablity to check uniqsness
+npm install --save mongoose-unique-validator
+
+this is to encrypt the password
+npm install --save bcrypt
+
+this is to generate web token needed for authentication
+npm install --save jsonwebtoken
